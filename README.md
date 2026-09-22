@@ -40,6 +40,8 @@ Também estou usando mais Linux no dia a dia, aprendendo SQL e começando a ente
 
 </details>
 
+---
+
 ## projetos
 
 
