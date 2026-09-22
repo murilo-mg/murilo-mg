@@ -42,7 +42,6 @@ Também estou usando mais Linux no dia a dia, aprendendo SQL e começando a ente
 
 ## projetos
 
----
 
 ### [rastreador-assinaturas](https://github.com/murilo-mg/rastreador-assinaturas)
 
