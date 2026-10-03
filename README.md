@@ -44,6 +44,19 @@ Também estou usando mais Linux no dia a dia, aprendendo SQL e começando a ente
 
 ## projetos
 
+### [dungeon-do-codigo](https://github.com/murilo-mg/dungeon-do-codigo)
+
+`HTML` `CSS` `JavaScript` `Canvas 2D`
+
+Nesse projeto, juntei leitura de código com uma ideia de exploração: funções de um programa em C viram salas de uma dungeon, e as chamadas entre elas formam corredores.
+
+Dá para colar código ou importar um arquivo `.c`, explorar o mapa e consultar o código e as informações de cada função no painel. A análise acontece no navegador, sem compilar ou executar o programa.
+
+A versão pública já está disponível no Cloudflare Pages.
+
+[experimentar a dungeon](https://dungeon-do-codigo.pages.dev/) · [ver repositório](https://github.com/murilo-mg/dungeon-do-codigo)
+
+---
 
 ### [rastreador-assinaturas](https://github.com/murilo-mg/rastreador-assinaturas)
 
@@ -70,8 +83,6 @@ Estou usando o repositório para guardar as listas e exercícios da disciplina d
 ---
 
 ## coisas da graduação que não viraram só código
-
-Em Engenharia de Software participei de um projeto acadêmico em grupo que passou pelo levantamento de requisitos, entrevistas com o público-alvo, definição de requisitos funcionais e não funcionais, regras de negócio e definição de um MVP.
 
 Neste semestre também estou cursando Práticas Extensionistas. A atividade está sendo planejada em parceria com o PET Computação e deve envolver visitas a escolas com jogos e atividades para apresentar um pouco da Computação aos alunos.
 
