@@ -8,9 +8,9 @@ UFAM · Manaus, Amazonas
 
 Estou no 4º período de Ciência da Computação na Universidade Federal do Amazonas, com previsão de conclusão em dezembro de 2028.
 
-Entrei no curso sabendo pouco de programação. Sempre gostei de matemática, raciocínio lógico e tinha curiosidade de entender melhor como os computadores funcionavam. Hoje uso a faculdade e meus projetos para experimentar áreas diferentes e descobrir onde quero me aprofundar.
+Entrei no curso sabendo pouco de programação. Sempre gostei de matemática e raciocínio lógico, e tinha curiosidade de entender melhor como os computadores funcionavam. Hoje uso a faculdade e meus projetos para experimentar áreas diferentes e descobrir onde quero me aprofundar.
 
-Engenharia de Software e Banco de Dados são duas áreas que têm chamado bastante minha atenção ultimamente.
+Engenharia de Software e Banco de Dados são duas áreas que têm chamado bastante minha atenção.
 
 ---
 
@@ -29,14 +29,14 @@ Engenharia de Software e Banco de Dados são duas áreas que têm chamado bastan
 Também estou usando mais Linux no dia a dia, aprendendo SQL e começando a entender melhor APIs e como diferentes partes de uma aplicação conversam entre si.
 
 <details>
-<summary>algumas matérias que já passaram pelo caminho</summary>
+<summary>Algumas matérias que já passaram pelo caminho</summary>
 
 <br>
 
-* Engenharia de Software
-* Algoritmos e Estruturas de Dados
-* Introdução à Organização de Computadores
-* Álgebra Linear
+- Engenharia de Software
+- Algoritmos e Estruturas de Dados
+- Introdução à Organização de Computadores
+- Álgebra Linear
 
 </details>
 
@@ -44,41 +44,49 @@ Também estou usando mais Linux no dia a dia, aprendendo SQL e começando a ente
 
 ## projetos
 
-### [dungeon-do-codigo](https://github.com/murilo-mg/dungeon-do-codigo)
+### [Dungeon do Código](https://github.com/murilo-mg/dungeon-do-codigo)
 
 `HTML` `CSS` `JavaScript` `Canvas 2D`
 
-Nesse projeto, juntei leitura de código com uma ideia de exploração: funções de um programa em C viram salas de uma dungeon, e as chamadas entre elas formam corredores.
+Transforma código C em uma dungeon explorável: cada função vira uma sala, e as chamadas entre funções conhecidas formam corredores. É possível colar ou importar um arquivo `.c`, explorar o mapa e consultar o código e as métricas de cada função.
 
-Dá para colar código ou importar um arquivo `.c`, explorar o mapa e consultar o código e as informações de cada função no painel. A análise acontece no navegador, sem compilar ou executar o programa.
+A análise acontece no navegador. O programa não compila nem executa o código C.
 
-A versão pública já está disponível no Cloudflare Pages.
-
-[experimentar a dungeon](https://dungeon-do-codigo.pages.dev/) · [ver repositório](https://github.com/murilo-mg/dungeon-do-codigo)
+[Experimentar a dungeon](https://dungeon-do-codigo.pages.dev/) · [Ver repositório](https://github.com/murilo-mg/dungeon-do-codigo)
 
 ---
 
-### [rastreador-assinaturas](https://github.com/murilo-mg/rastreador-assinaturas)
+### [Rastreador de Assinaturas](https://github.com/murilo-mg/rastreador-assinaturas)
 
 `Go` `PostgreSQL` `Docker`
 
-Fiz esse projeto para praticar Go e ter mais contato com banco de dados.
+Aplicação para cadastrar e editar assinaturas, acompanhar vencimentos e consultar gastos mensais e projeções anuais. A aplicação completa usa uma API em Go e PostgreSQL.
 
-É uma API para cadastrar gastos recorrentes, como streaming ou academia. Ela consegue listar e remover assinaturas, calcular o gasto mensal, mostrar vencimentos próximos e fazer uma projeção do gasto anual.
+A demonstração pública é uma versão estática com exemplos fictícios. Ela não usa a API nem persiste as alterações.
 
-[ver repositório](https://github.com/murilo-mg/rastreador-assinaturas)
+[Experimentar a demonstração](https://rastreador-assinaturas.pages.dev/) · [Ver repositório](https://github.com/murilo-mg/rastreador-assinaturas)
 
 ---
 
-### [exercicios-poo-java](https://github.com/murilo-mg/exercicios-poo-java)
+### [Gerenciador de Estoque em C](https://github.com/murilo-mg/gerenciador-estoque-c)
 
-`Java`
+`C11` `Make` `CSV`
 
-Esse aqui é mais caderno do que projeto.
+Aplicação de terminal para cadastrar, buscar e editar produtos, registrar entradas e saídas e consultar alertas de estoque baixo. Os dados são salvos em CSV; o projeto também tem testes automatizados e verificações com sanitizers.
 
-Estou usando o repositório para guardar as listas e exercícios da disciplina de Programação Orientada a Objetos enquanto aprendo Java.
+Versão 1.0.0, sob licença MIT.
 
-[ver repositório](https://github.com/murilo-mg/exercicios-poo-java)
+[Ver repositório](https://github.com/murilo-mg/gerenciador-estoque-c)
+
+---
+
+## estudos e experimentos
+
+### [Exercícios de POO em Java](https://github.com/murilo-mg/exercicios-poo-java)
+
+Esse repositório é mais caderno do que projeto. Uso para guardar listas e exercícios da disciplina de Programação Orientada a Objetos enquanto aprendo Java.
+
+[Ver repositório](https://github.com/murilo-mg/exercicios-poo-java)
 
 ---
 
